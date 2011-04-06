@@ -1,0 +1,42 @@
+/*////////////////////////////////////////////////////////////////
+	GF GAE Study
+	README
+	Date : 2011/04/06
+	Autor : YAMAGUCHI EIKICHI (twitter : @glasses_factory)
+	URL : http://glasses-factory.net
+/*////////////////////////////////////////////////////////////////
+
+ブログでやっている連載記事
+GAE for Flasher 第4、5回目のサンプルソースコード一式。
+Flasher 向けに、GAE 使おうぜという記事です。 AS 側はわりと省き気味笑
+【該当記事】
+http://blog.glasses-factory.net/2011/04/05/GAE-py-for-Flasher---4-PyAMF
+http://blog.glasses-factory.net/2011/04/06/GAE-py-for-Flasher---5-PyAMF
+
+
+以下依存しているライブラリ
+
+【Python】
+■kay-framework
+http://code.google.com/p/kay-framework/
+導入参考:
+http://blog.glasses-factory.net/2011/04/01/GAE-py-for-Flasher---3-with-kay-framework
+
+■PyAMF
+http://www.pyamf.org/
+導入参考:
+http://blog.glasses-factory.net/2011/04/05/GAE-py-for-Flasher---4-PyAMF
+http://blog.glasses-factory.net/2010/09/27/AS3-GAE
+
+【AS3】
+■BetweenAS3
+http://www.libspark.org/wiki/BetweenAS3/en
+
+■minimalcomps
+http://code.google.com/p/minimalcomps/
+
+■JPPScrollBar
+http://www.libspark.org/wiki/alumican/JPPScrollbar
+
+またライブラリではないですが、
+Flex Framework の Base64Encoder、Base64Decoderを使用しています。

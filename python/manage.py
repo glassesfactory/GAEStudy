@@ -1,0 +1,1 @@
+/python/kay/manage.py
